@@ -1,4 +1,7 @@
 # House pricing dataset from kaggle
+## Задача
+Предсказание цен домов по имеющимся характеристикам
+
 ## Файлы
 House_pricing_Prepocessing.ipynb - notebook with preprocessing
 House_pricing_GB_git_version.ipynb - notebook with the model
