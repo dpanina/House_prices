@@ -6,7 +6,7 @@ House_pricing_GB_git_version.ipynb - notebook with the model
 ## Preprocessing
 
 
-## model
+## Model
 model - GradientBoostingRegressor()
 
 ## Score
